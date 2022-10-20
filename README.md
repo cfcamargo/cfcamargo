@@ -1,4 +1,4 @@
-### Olá , eu sou o Cristian Camargo !
+### Olá , eu sou o Cristian Camargo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
 
 <div>
   <a href="https://github.com/cfcamargo">
