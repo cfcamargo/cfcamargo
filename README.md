@@ -5,6 +5,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cfcamargo&layout=compact&langs_count=7&theme=dark"/>
 </div> -->
 
+ - Desenvolvedor Front-end
+ - Transformo café em bugs e as vezes monto alguns sites!
+ - Apaixonado por tecnologia
+ - Graduando em engenharia de software
   
   ##
   
