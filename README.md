@@ -2,11 +2,9 @@
 <!--<div>
   <a href="https://github.com/cfcamargo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cfcamargo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cfcamargo&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cfcamargo&layout=compact&langs_count=7&theme=onedark"/>
 </div> -->
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cfcamargo&show_icons=true&theme=onedark)
 
  - Desenvolvedor Front-end
  - Transformo café em bugs e as vezes monto alguns sites!
