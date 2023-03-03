@@ -6,7 +6,7 @@
 </div> -->
 
 
- - Desenvolvedor Front-end
+ - Desenvolvedor Front-end Vue JS
  - Transformo café em bugs e as vezes monto alguns sites!
  - Apaixonado por tecnologia
  - Graduando em engenharia de software
