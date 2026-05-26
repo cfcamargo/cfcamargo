@@ -7,20 +7,16 @@ Minha jornada no desenvolvimento de software é movida pela curiosidade e pelo d
 Acredito firmemente no poder da tecnologia para transformar nosso cotidiano, facilitando tarefas e promovendo inovações. Por isso, estou sempre em busca de oportunidades para aplicar meu conhecimento em projetos que visam melhorar a vida das pessoas.
 
 
-## Minhas Stacks
+## Minha Stack
   
  <div style="display: inline_block"><br>
-  <img align="center" alt="Cris-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Cris-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Cris-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Cris-Flutter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="Cris-ReactJs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
   <img align="center" alt="Cris-VueJs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">
-  <img align="center" alt="Cris-Nuxt" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg">
-  <img align="center" alt="Cris-Tailwind" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg">
   <img align="center" alt="Cris-Laravel" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Cris-Laravel" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/adonisjs/adonisjs-original.svg">
-  <img align="center" alt="Cris-Laravel" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original.svg">
+  <img align="center" alt="Cris-Laravel" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg">
+  <img align="center" alt="Cris-Laravel" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
 </div>
 
   <br/>
